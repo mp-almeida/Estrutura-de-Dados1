@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758831412 source:f:\if-bsi\2sem\estrutura de dados\pilha dinâmica\pilhadinamica02\main.cpp
+	<iostream>
+	"PilhaDinamica02.h"
+
+1762092520 f:\if-bsi\2sem\estrutura de dados\pilha dinâmica\pilhadinamica02\pilhadinamica02.h
+
+1762095902 source:f:\if-bsi\2sem\estrutura de dados\pilha dinâmica\pilhadinamica02\pilhadinamica02.cpp
+	<iostream>
+	"PilhaDinamica02.h"
+

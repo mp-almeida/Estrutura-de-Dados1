@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1757936720 source:e:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\main.cpp
+	<iostream>
+	"PilhaEstatica.h"
+
+1757936976 e:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\pilhaestatica.h
+
+1757936356 e:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\pilhaestatica.cpp
+	"PilhaEstatica.h"
+	<iostream>
+
+1757936888 source:e:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\pilhaestatica.cpp
+	"PilhaEstatica.h"
+	<iostream>
+
+1758458318 source:f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\main.cpp
+	<iostream>
+	"PilhaEstatica.h"
+
+1757936976 f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\pilhaestatica.h
+
+1758458184 source:f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica\pilhaestatica.cpp
+	"PilhaEstatica.h"
+	<iostream>
+

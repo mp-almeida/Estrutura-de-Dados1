@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1763990526 source:e:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\main.cpp
+	<iostream>
+	"ListaDuplamenteEncadeada.h"
+
+1763990528 e:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\listaduplamenteencadeada.h
+
+1763989684 source:e:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\listaduplamenteencadeada.cpp
+	"ListaDuplamenteEncadeada.h"
+	<iostream>
+
+1763990746 source:f:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\listaduplamenteencadeada.cpp
+	"ListaDuplamenteEncadeada.h"
+	<iostream>
+
+1763990528 f:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\listaduplamenteencadeada.h
+
+1763990526 source:f:\if-bsi\2sem\estrutura de dados\lista duplamente encadeada\listaduplamenteencadeada\main.cpp
+	<iostream>
+	"ListaDuplamenteEncadeada.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1758459268 source:f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica2\main.cpp
+	<iostream>
+	"PilhaEstatica2.h"
+
+1758458858 f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica2\pilhaestatica2.h
+	<cstring>
+	<iostream>
+
+1758459746 source:f:\if-bsi\2sem\estrutura de dados\pilha estática\pilhaestatica2\pilhaestatica2.cpp
+	"PilhaEstatica2.h"
+	<iostream>
+	<cstring>
+
