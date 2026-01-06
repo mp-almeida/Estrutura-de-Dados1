@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1759151742 source:e:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\filaestatica.cpp
+	"FilaEstatica.h"
+	<stdlib.h>
+	<iostream>
+
+1759152026 e:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\filaestatica.h
+
+1759149902 source:e:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\main.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<windows.h>
+
+1759151742 source:f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\filaestatica.cpp
+	"FilaEstatica.h"
+	<stdlib.h>
+	<iostream>
+
+1759443272 f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\filaestatica.h
+
+1759443424 source:f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica\main.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<windows.h>
+

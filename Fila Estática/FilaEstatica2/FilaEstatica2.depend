@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1759445288 source:f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica2\filaestatica2.cpp
+	"FilaEstatica2.h"
+	<iostream>
+
+1759444848 f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica2\filaestatica2.h
+
+1759445332 source:f:\if-bsi\2sem\estrutura de dados\fila estática\filaestatica2\main.cpp
+	<iostream>
+	"FilaEstatica2.h"
+	<windows.h>
+

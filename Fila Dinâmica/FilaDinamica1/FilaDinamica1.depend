@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1759754980 source:e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filadinamica1\filadinamica1.cpp
+	"FilaDinamica1.h"
+	<iostream>
+	<stdlib.h>
+
+1759754928 e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filadinamica1\filadinamica1.h
+
+1759754998 source:e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filadinamica1\main.cpp
+	<iostream>
+	"FilaDinamica1.h"
+

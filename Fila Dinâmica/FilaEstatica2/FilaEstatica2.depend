@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1759756782 source:e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\main.cpp
+	<iostream>
+	"FilaDinamica2.h"
+
+1759756344 e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\filadinamica2.h
+
+1760132164 source:e:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\filadinamica2.cpp
+	<iostream>
+	"FilaDinamica2.h"
+
+1759756782 source:f:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\main.cpp
+	<iostream>
+	"FilaDinamica2.h"
+
+1759756344 f:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\filadinamica2.h
+
+1760131608 source:f:\if-bsi\2sem\estrutura de dados\fila dinâmica\filaestatica2\filadinamica2.cpp
+	<iostream>
+	"FilaDinamica2.h"
+
